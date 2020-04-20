@@ -1,0 +1,12 @@
+C:\Users\Unknown\Documents\Visual Studio 2017\Projects\Calc\Calc\bin\Debug\Calc.exe.config
+C:\Users\Unknown\Documents\Visual Studio 2017\Projects\Calc\Calc\bin\Debug\Calc.exe
+C:\Users\Unknown\Documents\Visual Studio 2017\Projects\Calc\Calc\bin\Debug\Calc.pdb
+C:\Users\Unknown\Documents\Visual Studio 2017\Projects\Calc\Calc\obj\Debug\Calc.csprojAssemblyReference.cache
+C:\Users\Unknown\Documents\Visual Studio 2017\Projects\Calc\Calc\obj\Debug\Calc.Credit.resources
+C:\Users\Unknown\Documents\Visual Studio 2017\Projects\Calc\Calc\obj\Debug\Calc.Deposit.resources
+C:\Users\Unknown\Documents\Visual Studio 2017\Projects\Calc\Calc\obj\Debug\Calc.Main.resources
+C:\Users\Unknown\Documents\Visual Studio 2017\Projects\Calc\Calc\obj\Debug\Calc.Properties.Resources.resources
+C:\Users\Unknown\Documents\Visual Studio 2017\Projects\Calc\Calc\obj\Debug\Calc.csproj.GenerateResource.cache
+C:\Users\Unknown\Documents\Visual Studio 2017\Projects\Calc\Calc\obj\Debug\Calc.csproj.CoreCompileInputs.cache
+C:\Users\Unknown\Documents\Visual Studio 2017\Projects\Calc\Calc\obj\Debug\Calc.exe
+C:\Users\Unknown\Documents\Visual Studio 2017\Projects\Calc\Calc\obj\Debug\Calc.pdb
